@@ -45,9 +45,7 @@ h2 {
 .section {
 
 	background-color: #808080;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 20px;
+	margin: 20px;
 }
 
 .section p {
